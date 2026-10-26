@@ -28,7 +28,7 @@ Pay, hours, commute, health insurance, paid time off, growth, schedule flexibili
 
 ## Want the printable tracker?
 
-The **Job Search Tracker and Application Log** has search goals, two pages of application log, contact tracker, interview prep sheet, weekly review and offer comparison: https://spectre5.gumroad.com/l/PLACEHOLDER ($6)
+The **Job Search Tracker and Application Log** has search goals, two pages of application log, contact tracker, interview prep sheet, weekly review and offer comparison: https://payhip.com/b/50AFL ($6)
 
 Need a resume first? See the free hourly-job resume template: https://github.com/BlacksGit/hourly-job-resume-template-free
 
